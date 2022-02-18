@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e814d059-cbab-43f3-b14c-55b87d0b743d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer-management/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/controller/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/responsitory/IStudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/responsitory/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/java/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/webapp/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/demo/student_management/src/main/webapp/student/student_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/controller/ProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/controller/ProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/classes/java/main/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/libs/product_management-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/libs/product_management-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/controller/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/java/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/modules/customer_management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/classes/java/main/controllers/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/classes/java/main/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/classes/java/main/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/classes/java/main/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/libs/customer_management-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/java/controllers/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/java/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/java/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/java/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/error-404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/thuc_hanh/customer_management/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="255RxybjVs5zziOZzYC5GyfinAi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ss11_mo_hinh_mvc/bai_tap/product_management" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e814d059-cbab-43f3-b14c-55b87d0b743d" name="Default Changelist" comment="" />
+      <created>1644815212199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644815212199</updated>
+      <workItem from="1644815213745" duration="182000" />
+      <workItem from="1644819689880" duration="1866000" />
+      <workItem from="1644824217459" duration="463000" />
+      <workItem from="1644824971658" duration="45000" />
+      <workItem from="1644825917734" duration="2944000" />
+      <workItem from="1644830633495" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
